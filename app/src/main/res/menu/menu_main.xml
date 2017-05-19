@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/main2activity"
+        android:title="Main2Activity"
+        android:icon="@drawable/ic_arrow_forward_black_24dp"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="always"></item>
+</menu>
